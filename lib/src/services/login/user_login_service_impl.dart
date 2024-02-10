@@ -1,5 +1,5 @@
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
-import 'package:fe_lab_clinicas_self_service_cb/src/repositories/user/user_repository.dart';
+import 'package:fe_lab_clinicas_panel/src/repositories/user/user_repository.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import './user_login_service.dart';

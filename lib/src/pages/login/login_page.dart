@@ -1,5 +1,5 @@
 import 'package:fe_lab_clinicas_core/fe_lab_clinicas_core.dart';
-import 'package:fe_lab_clinicas_self_service_cb/src/pages/login/login_controller.dart';
+import 'package:fe_lab_clinicas_panel/src/pages/login/login_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_getit/flutter_getit.dart';
 import 'package:signals_flutter/signals_flutter.dart';
